@@ -1,3 +1,6 @@
+This is a custom branch of Beatoraja, with certain tweaks and customizations that I wanted to implement.
+Don't think there's anything usable for the upstream master lel.
+
 # beatoraja
 Codename beatoraja is a Cross-platform rhythm game based on Java and libGDX.
 It works on Windows, Mac OS, and Linux.
